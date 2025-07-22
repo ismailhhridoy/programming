@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "iostream": "cpp",
+        "array": "cpp",
+        "fstream": "cpp",
+        "future": "cpp",
+        "optional": "cpp",
+        "shared_mutex": "cpp",
+        "sstream": "cpp",
+        "thread": "cpp",
+        "tuple": "cpp"
+    }
+}

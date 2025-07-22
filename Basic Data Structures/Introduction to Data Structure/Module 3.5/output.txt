@@ -1,0 +1,9 @@
+Prefix Sum : 2 4 9 11 13
+ 
+Left Sum = 0  Right Sum = 11
+
+Left Sum = 2  Right Sum = 9
+
+Left Sum = 4  Right Sum = 4
+
+Index : 2
