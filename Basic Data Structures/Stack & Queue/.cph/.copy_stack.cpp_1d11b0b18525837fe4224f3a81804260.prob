@@ -1,0 +1,1 @@
+{"name":"Local: copy_stack","url":"f:\\Learning\\Phitron\\Basic Data Structures\\Stack & Queue\\copy_stack.cpp","tests":[{"id":1753278355708,"input":"5\n10 20 30 40 50","output":"10 20 30 40 50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Learning\\Phitron\\Basic Data Structures\\Stack & Queue\\copy_stack.cpp","group":"local","local":true}
