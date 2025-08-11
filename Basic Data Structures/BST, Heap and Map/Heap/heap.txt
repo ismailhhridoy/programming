@@ -1,0 +1,14 @@
+heap should be like Complete binary tree — every level is completely filled except possibly the last.
+Last level filled from left — nodes on the last level are as far left as possible.
+Max-heap input: each parent should be greater or equal than its children (root is maximum).
+Min-heap input: each parent should be lower or equal than its children (root is minimum).
+
+Formula: 
+
+left child index = 2*i + 1
+
+right child index = 2*i + 2
+
+parent index = (i - 1) // 2
+
+insert/delete complexity O(logn)

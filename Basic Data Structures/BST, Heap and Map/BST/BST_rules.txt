@@ -1,0 +1,4 @@
+1. it's should be binary tree node
+left sub tree value should less than root value
+right sub tree value should be greater that root value
+time complexity is O(h) h = hieght
